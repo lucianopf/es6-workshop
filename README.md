@@ -7,4 +7,4 @@
 3. Destructuring.
 4. Parameters.
 5. Classes.
-6. Others.
+6. Etc.
